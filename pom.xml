@@ -70,6 +70,7 @@
     </scm>
 
     <properties>
+        <sonar.organization>vcatest</sonar.organization>
         <java.version>11</java.version>
         <maven.compiler.release>${java.version}</maven.compiler.release>
         <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
